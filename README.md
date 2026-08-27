@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parnika0369/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0369/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parnika0369/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -71,7 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/parnika0369/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parnika0369/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
