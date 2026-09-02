@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/parnika0369/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/parnika0369/Leetcode/tree/master/0704-binary-search) |
+| [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0369/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parnika0369/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/parnika0369/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parnika0369/Leetcode/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Combinatorics
