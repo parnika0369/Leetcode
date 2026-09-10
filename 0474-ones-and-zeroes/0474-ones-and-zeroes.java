@@ -43,3 +43,13 @@ class Solution {
         return helper(strs, 0, m, n,dp);
     }
 }
+
+/*
+dp[i][m][n] means: the maximum number of strings we can select starting from index i with m zeros and n ones remaining.
+For your memoization solution:
+
+Time Complexity: O(L × m × n)
+where L = strs.length (ignoring the small cost of counting 0s/1s in each string).
+Space Complexity: O(L × m × n) for the 3D dp array, plus O(L) recursion stack.
+*/
+
