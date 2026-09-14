@@ -4,12 +4,14 @@ class Solution {
         if(n==1){
             return nums[0];
         }
-        Integer[] dp = new Integer[n+1];
-        dp[0] = nums[0];
-        dp[1] = Math.max(nums[0],nums[1]);
+        // Integer[] dp = new Integer[n+1];
+        int choriONzero = nums[0];
+        int choriONone = Math.max(nums[0],nums[1]);
         for(int i=2;i<n;i++){
-            dp[i] = Math.max((nums[i]+dp[i-2]),dp[i-1]);
+            int temp = choriONone;
+            choriONone = Math.max((nums[i]+choriONzero),choriONone);
+            choriONzero = temp;
         }
-        return dp[n-1];
+        return choriONone;
     }
 }
