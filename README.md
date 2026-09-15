@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parnika0369/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
