@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/parnika0369/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/parnika0369/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/parnika0369/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parnika0369/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0064-minimum-path-sum) |
