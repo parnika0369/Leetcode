@@ -6,12 +6,12 @@ class Solution {
             return grid[i][j];
         }
         if (i >= m || j >= n) {
-            return Integer.MAX_VALUE;
+            return 201;
         }
         if(dp[i][j]!= null) return dp[i][j];
-        int down = helper(grid,i+1,j,dp);
-        int right =helper(grid,i,j+1,dp);
-        dp[i][j] = grid[i][j] + Math.min(down, right);
+        int down = grid[i][j]+helper(grid,i+1,j,dp);
+        int right =grid[i][j]+helper(grid,i,j+1,dp);
+        dp[i][j] = Math.min(down, right);
         return dp[i][j];
     }
     public int minPathSum(int[][] grid) {
