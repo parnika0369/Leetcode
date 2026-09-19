@@ -1,44 +1,24 @@
-// class Solution {
-//     private int helper(int i,int j,int[][] grid, int[][] dp){
-//         if (i == 0 && j == 0) return grid[0][0];
-//         if (i < 0 || j < 0) return Integer.MAX_VALUE;
-
-//         if (dp[i][j] != -1) return dp[i][j];
-//         int Moveright = grid[i][j]+helper(i-1,j,grid,dp);
-//         int MoveDown = grid[i][j]+helper(i,j-1,grid,dp);
-
-//         return dp[i][j] = Math.min(Moveright,MoveDown);
-//     }
-//     public int minPathSum(int[][] grid) {
-//         int m = grid.length;
-//         int n= grid[0].length;
-//         int dp[][] = new int[m][n];
-//         for (int[] row : dp) Arrays.fill(row, -1);
-//         return helper(m-1,n-1, grid,dp);
-//     }
-// }
-
-
-
-
 class Solution {
-    private int helper(int i, int j, int[][] grid, int[][] dp) {
-        if (i == 0 && j == 0) return grid[0][0];
-        if (i < 0 || j < 0) return Integer.MAX_VALUE;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        int fromTop  = helper(i - 1, j, grid, dp);
-        int fromLeft = helper(i, j - 1, grid, dp);
-
-        return dp[i][j] = grid[i][j] + Math.min(fromTop, fromLeft);
+    private int helper(int[][] grid,int i,int j,Integer[][] dp){
+        int m = grid.length;
+        int n = grid[0].length;
+        if(i==m-1&&j==n-1){
+            return grid[i][j];
+        }
+        if (i >= m || j >= n) {
+            return Integer.MAX_VALUE;
+        }
+        if(dp[i][j]!= null) return dp[i][j];
+        int down = helper(grid,i+1,j,dp);
+        int right =helper(grid,i,j+1,dp);
+        dp[i][j] = grid[i][j] + Math.min(down, right);
+        return dp[i][j];
     }
-
     public int minPathSum(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int[][] dp = new int[m][n];
-        for (int[] row : dp) Arrays.fill(row, -1);
-        return helper(m - 1, n - 1, grid, dp);
+        Integer[][] dp = new Integer[m+1][n+1];
+        return helper(grid,0,0,dp);
+
     }
 }
