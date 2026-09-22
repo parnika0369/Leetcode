@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/parnika0369/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parnika0369/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika0369/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parnika0369/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parnika0369/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika0369/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika0369/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1035-uncrossed-lines](https://github.com/parnika0369/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
