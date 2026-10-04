@@ -1,17 +1,17 @@
 class Solution {
-    public int rob(int[] nums) {
-        int n = nums.length;
-        if(n==1){
-            return nums[0];
+    private int helper(int[] nums,int i,Integer[] dp){
+        if(i>=nums.length){
+            return 0;
         }
-        // Integer[] dp = new Integer[n+1];
-        int choriONzero = nums[0];
-        int choriONone = Math.max(nums[0],nums[1]);
-        for(int i=2;i<n;i++){
-            int temp = choriONone;
-            choriONone = Math.max((nums[i]+choriONzero),choriONone);
-            choriONzero = temp;
-        }
-        return choriONone;
+        if(dp[i]!= null)return dp[i];
+        int chori1 = nums[i]+helper(nums,i+2,dp);
+        int chori2 = helper(nums,i+1,dp);
+        dp[i] = Math.max(chori1,chori2);
+        return dp[i];
     }
-}
+    public int rob(int[] nums) {
+        Integer[] dp = new Integer[nums.length+1];
+        return helper(nums,0,dp);
+    }
+} 
+
