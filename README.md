@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parnika0369/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/parnika0369/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/parnika0369/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/parnika0369/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parnika0369/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/parnika0369/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parnika0369/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0064-minimum-path-sum) |
