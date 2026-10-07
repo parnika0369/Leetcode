@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/parnika0369/Leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0369/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/parnika0369/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Combinatorics
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
+| [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Manacher
 |  |
