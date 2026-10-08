@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/parnika0369/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/parnika0369/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/parnika0369/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0369/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parnika0369/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/parnika0369/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/parnika0369/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/parnika0369/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika0369/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/parnika0369/Leetcode/tree/master/0704-binary-search) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika0369/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/parnika0369/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -236,4 +240,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
