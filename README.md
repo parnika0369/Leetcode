@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parnika0369/Leetcode/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/parnika0369/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/parnika0369/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/parnika0369/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/parnika0369/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parnika0369/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/parnika0369/Leetcode/tree/master/0125-valid-palindrome) |
 | [0845-longest-mountain-in-array](https://github.com/parnika0369/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 ## Enumeration
