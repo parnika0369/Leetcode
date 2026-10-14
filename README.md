@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/parnika0369/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parnika0369/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/parnika0369/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/parnika0369/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/parnika0369/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Combinatorics
