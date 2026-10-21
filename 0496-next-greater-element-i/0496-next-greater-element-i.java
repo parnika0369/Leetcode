@@ -3,18 +3,22 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
         int[] ans = new int[n];
-        Arrays.fill(ans,-1);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(nums1[i] == nums2[j]){
-                    for(int k=j;k<m;k++){
-                        if(nums2[k]>nums2[j]){
-                            ans[i] = nums2[k];
-                            break;
-                        }
-                    }
-                }
+        Stack<Integer> st = new Stack<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i=0;i<m;i++){
+            while(!st.isEmpty()&&nums2[i]>st.peek()){
+                map.put(st.pop(),nums2[i]);
             }
+            st.push(nums2[i]);
+        }
+        // Numbers left in the stack have no greater element
+        while (!st.isEmpty()) {
+            map.put(st.pop(), -1);
+        }
+        //final ans in O(1)
+        for(int i=0;i<n;i++){
+            ans[i] = map.get(nums1[i]);
+
         }
         return ans;
     }
