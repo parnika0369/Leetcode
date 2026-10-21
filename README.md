@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/parnika0369/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/parnika0369/Leetcode/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parnika0369/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parnika0369/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parnika0369/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/parnika0369/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/parnika0369/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parnika0369/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
