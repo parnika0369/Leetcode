@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parnika0369/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parnika0369/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parnika0369/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Minimax
 |  |
 | ------- |
