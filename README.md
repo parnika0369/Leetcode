@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/parnika0369/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0853-car-fleet](https://github.com/parnika0369/Leetcode/tree/master/0853-car-fleet) |
 | [0930-binary-subarrays-with-sum](https://github.com/parnika0369/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parnika0369/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parnika0369/Leetcode/tree/master/0148-sort-list) |
+| [0853-car-fleet](https://github.com/parnika0369/Leetcode/tree/master/0853-car-fleet) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/parnika0369/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parnika0369/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/parnika0369/Leetcode/tree/master/0853-car-fleet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parnika0369/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/parnika0369/Leetcode/tree/master/0853-car-fleet) |
 ## Queue
 |  |
 | ------- |
