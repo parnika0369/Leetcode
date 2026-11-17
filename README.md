@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/parnika0369/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/parnika0369/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/parnika0369/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/parnika0369/Leetcode/tree/master/0055-jump-game) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parnika0369/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parnika0369/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/parnika0369/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/parnika0369/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/parnika0369/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parnika0369/Leetcode/tree/master/0142-linked-list-cycle-ii) |
