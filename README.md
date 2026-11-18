@@ -405,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/parnika0369/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/parnika0369/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
