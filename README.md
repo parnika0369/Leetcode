@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0369/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parnika0369/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/parnika0369/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/parnika0369/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/parnika0369/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/parnika0369/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/parnika0369/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parnika0369/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/parnika0369/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/parnika0369/Leetcode/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parnika0369/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -408,5 +410,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/parnika0369/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/parnika0369/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
