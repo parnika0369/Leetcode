@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/parnika0369/Leetcode/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/parnika0369/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/parnika0369/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/parnika0369/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/parnika0369/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/parnika0369/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/parnika0369/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parnika0369/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
@@ -412,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/parnika0369/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/parnika0369/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
