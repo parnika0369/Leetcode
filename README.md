@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parnika0369/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/parnika0369/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parnika0369/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Linked List
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -419,8 +422,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
