@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/parnika0369/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/parnika0369/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0369/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parnika0369/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/parnika0369/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/parnika0369/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parnika0369/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -429,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
