@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/parnika0369/Leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parnika0369/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parnika0369/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parnika0369/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/parnika0369/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/parnika0369/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parnika0369/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parnika0369/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/parnika0369/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parnika0369/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Linked List
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parnika0369/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parnika0369/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/parnika0369/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parnika0369/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Complete Knapsack
 |  |
 | ------- |
