@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/parnika0369/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parnika0369/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/parnika0369/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/parnika0369/Leetcode/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/parnika0369/Leetcode/tree/master/0704-binary-search) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/parnika0369/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parnika0369/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/parnika0369/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/parnika0369/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/parnika0369/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/parnika0369/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/parnika0369/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/parnika0369/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/parnika0369/Leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/parnika0369/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/parnika0369/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/parnika0369/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parnika0369/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/parnika0369/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/parnika0369/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parnika0369/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/parnika0369/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parnika0369/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
